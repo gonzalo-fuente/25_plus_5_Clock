@@ -34,7 +34,7 @@ const Display = ({ text, timeLeft, timerOn, setTimerOn, resetTimers }) => {
       </div>
 
       <audio 
-        src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav" 
+        src="https://github.com/gonzalo-fuente/25_plus_5_Clock/raw/master/src/audio/alarm.mp3" 
         id="beep"
         
       >
