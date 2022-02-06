@@ -1,7 +1,7 @@
 # 25 + 5 Clock
 
 Front End Development Libraries Certification.
-FreeCodeCamp fourth exercise.
+FreeCodeCamp last exercise.
 
 [Link to the site!](https://gonzalo-fuente.github.io/25_plus_5_Clock/)
 
